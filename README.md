@@ -1,32 +1,132 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
-# 💫 About Me:
-I'm a Final year student at Arya college of Engineering and IT and have with a strong interest in Data Science, Machine Learning, and NLP. I enjoy working with data to uncover insights, solve real-world problems, and build intelligent systems.<br><br>My academic and project experience includes Financial Misinformation Detection and NLP-based Financial Document Processing, where I applied text preprocessing, feature extraction, and machine learning techniques to analyze and classify financial data.<br><br>Alongside data science, I have a solid foundation in programming (Java, JavaScript) and software development, which helps me build end-to-end solutions—from data handling to application deployment. I am passionate about continuous learning, problem-solving, and applying data-driven approaches to make impactful decisions.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Hi%20there,%20I%27m%20Titiksha%20Gupta%20👋&fontSize=36&fontAlignY=36&desc=B.Tech%20CSE%20•%20Multimodal%20AI%20&%20Data%20Science%20•%20Full%20Stack%20Developer&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/titiksha-gupta-524389338)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@titikshaa___)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:titikshagupta10@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/titiksha-code/Web-Portfolio)
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@titikshaa___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/titiksha-gupta-524389338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:titikshaa2006@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 🏆 GitHub Achievements:
+### 💫 About Me
+
+I am a final-year Computer Science & Engineering student at **Arya College of Engineering & IT** with a strong focus on **Multimodal AI, Retrieval-Augmented Generation (RAG), and Scalable Backend Engineering**.
+
+- 🔭 **Current Focus:** Multimodal vector retrieval over cross-modal data (text, tables, diagrams, and scanned figures).
+- 🧠 **AI & Data Science:** Experienced in NLP preprocessing, vector embeddings (CLIP / Sentence-Transformers), ChromaDB / Qdrant, and financial misinformation detection.
+- ⚡ **Full-Stack Engineering:** Robust foundation in **Java 21 / Spring Boot 3**, **Python / FastAPI**, and **React 19 / Modern JavaScript**.
+- 🎯 **Goal:** Designing high-impact, data-driven intelligent systems and production-grade architectures.
+
+---
+
+### 🚀 Featured Repositories
+
+| Repository | Tech Stack | Highlights |
+|---|---|---|
+| **[🧠 AI-Powered Multimodal RAG System](https://github.com/titiksha-code/AI-Powered-Multimodal-RAG-System)** | `Python` · `FastAPI` · `PyTorch` · `CLIP` · `ChromaDB` · `Streamlit` | End-to-end multimodal RAG pipeline parsing PDFs, tables, and images with hybrid dense+keyword retrieval. |
+| **[🛡️ SecureCart Enterprise E-Commerce](https://github.com/titiksha-code/secure-ecommerce)** | `Java 21` · `Spring Boot 3` · `React 19` · `MySQL 8.4` · `Docker` | Production-grade platform featuring pessimistic stock locking, JWT authentication, and idempotent checkout. |
+| **[🏧 Enterprise ATM System](https://github.com/titiksha-code/ATM)** | `Java` · `Spring Boot 3` · `REST API` · `Simulator` | Secure console and REST-based ATM simulator handling concurrent banking transactions safely. |
+| **[🆘 Emergency SOS Alert System](https://github.com/titiksha-code/sos-alert-system)** | `Python` · `JavaScript` · `APIs` | Real-time emergency location dispatcher and notification broadcasting tool. |
+
+---
+
+### 💻 Tech Stack & Skills
+
+<details open>
+<summary><b>Languages & Core</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI / ML & Vector Search</b></summary>
+<br/>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Backend, Frontend & Databases</b></summary>
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>DevOps & Developer Tools</b></summary>
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</details>
+
+---
+
+### 🏆 GitHub Achievements
+
 <p align="left">
-  <a href="https://github.com/titiksha-code?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark" title="Pull Shark" />
+  <a href="https://github.com/titiksha-code?tab=achievements" title="Pull Shark - Opened & Merged Pull Requests">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark" />
   </a>
-  <a href="https://github.com/titiksha-code?tab=achievements">
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" alt="Quickdraw" title="Quickdraw" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/titiksha-code?tab=achievements" title="Quickdraw - Closed issue or PR within 5 minutes">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" alt="Quickdraw" />
   </a>
-  <a href="https://github.com/titiksha-code?tab=achievements">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO" title="YOLO" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/titiksha-code?tab=achievements" title="YOLO - Merged without code review">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="95" alt="YOLO" />
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=titiksha-code&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=titiksha-code&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha-code&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=titiksha-code&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=titiksha-code&theme=transparent&hide_border=false" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titiksha-code&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="48%" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=titiksha-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=titiksha-code&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=titiksha-code&icon=0&color=0" alt="Visitor Count" />
+  </a>
+</div>
